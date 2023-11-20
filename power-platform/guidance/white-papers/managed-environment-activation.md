@@ -177,8 +177,8 @@ Organizations using this feature have different configurations depending on the 
 |Environment Type|Solution checker|
 |------------------|-------------|
 |Default |Choose **Block** and select the **Send emails**  check box.|
-|Developer|Choose **Warm** and leave the **Send emails** check box clear.|
-| Sandbox | Choose **Warm** and leave the **Send emails** check box clear.|
+|Developer|Choose **Warn** and leave the **Send emails** check box clear.|
+| Sandbox | Choose **Warn** and leave the **Send emails** check box clear.|
 | Production| Choose **Block** and select the **Send emails** check box.|
 |Teams Environment|Choose **Block** and select the **Send emails** check box.|
 
